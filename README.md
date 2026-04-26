@@ -13,7 +13,7 @@ I am a Software Engineering student at UDC with a strong focus on Business Intel
 
 ### 📊 Featured Data Portfolio
 * [**Swiss Rent & Cost of Living Analyzer**](https://github.com/jorgeeemera/Swiss-Rent-Analyzer) 🇨🇭 — An End-to-End ETL pipeline and interactive Tableau dashboard analyzing the Swiss real estate market. Built with **Python (Pandas)** and **SQLite**.
-* *⏳ Currently working on more Data Science and Analytics projects!... * 🚀
+* **⏳ Currently working on more Data Science and Analytics projects!... 🚀**
 
 ### 📚 Academic Roadmap (UDC Projects)
 | Repository | Focus Area | Key Technologies |
